@@ -18,9 +18,6 @@ export default class App extends Vue{
 </script>
 
 <style lang="less">
-//background: url('./assets/img/post-bg-new.jpg') no-repeat center center;
-//  background-attachment: scroll;
-//  background-size: cover;
 body{
     margin: 0;
     padding: 0;
